@@ -2,8 +2,8 @@
 #### This project is for detection of people face and show whether he/she is wearing mask.
 <img src="https://img.etimg.com/thumb/msid-74959025,width-643,imgsize-622136,resizemode-4/mask_istock.jpg">
 
-#### This project I have done by two ways one using Simple CNN While loss is categorical cross-entropy.
-#### The second way is using Transfer Learning while loss is binary cross-entropy.
+#### This project I have done by two ways one using Simple CNN While loss is categorical cross-entropy.(ACCURACY: 96%)
+#### The second way is using Transfer Learning while loss is binary cross-entropy.(ACCURACY: 99%)
 #### The dataset used here was made by  Prajna Bhandary. It contains images of people wearing mask and not wearing mask.
 #### with_mask: 690 images
 #### without_mask: 686 images
