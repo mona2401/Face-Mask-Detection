@@ -15,4 +15,7 @@ Here are the steps to make this model.
 #### 5. Save your model into your local device.
 #### 6. For Detection of image run the code of imgdetect.py
 #### 7. For Real time Detection run Real_time_detection.py
+
+#### I have attached an PPT for understanding how the models works. You can go thriugh that.
+
 *****# Thank You #*****
