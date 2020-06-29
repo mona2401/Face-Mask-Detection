@@ -7,6 +7,8 @@
 #### The dataset used here was made by  Prajna Bhandary. It contains images of people wearing mask and not wearing mask.
 #### with_mask: 690 images
 #### without_mask: 686 images
+#### Dataset Link: https://drive.google.com/file/d/1QZ3AHegRLQgM9BgVe_oRmc0T0BjrCFCb/view?usp=sharing
+
 Here are the steps to make this model.
 #### 1. Load the Dataset from your device(I'm used Goggle colab here for my project).
 #### 2. Import the necessary Libraries.
